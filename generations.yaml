@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/GMC_Sierra"
+
+generations:
+  - name: "GMT900"
+    start_year: 2007
+    end_year: 2014
+    description: "With the 6.0 L V8 and 6.6 L Duramax diesel."
+  - name: "K2XX"
+    start_year: 2015
+    end_year: 2019
+    description: "With the 6.0 L V8 and 6.6 L Duramax diesel."
+  - name: "T1XX"
+    start_year: 2020
+    end_year: null
+    description: "With the 6.6 L gasoline V8 and 6.6 L Duramax diesel."
